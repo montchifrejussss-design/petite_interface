@@ -1,0 +1,121 @@
+body{
+    background: white;
+    border-left: 3px solid red;
+    border-right: 3px solid red;
+    width: 96%;;
+    padding: 1%;
+}
+#gaudroi{
+    display: flex;
+    width: 99%;
+    gap: 83.5%;
+}
+.bgnoir{
+    background: #000;
+    border-radius: 50%;
+    color: white;
+    padding: 5%;
+}
+.bgnoir1{
+   background: #000;
+   color: white;
+   border-radius: 50%;
+   padding: 5%;
+}
+.bas{
+    margin-top: 18%;
+}
+.bas1{
+     margin-top: 18%;
+}
+.gauche{
+    display: flex;
+    gap: 4%;
+    width: 50%;
+}
+.droite{
+    display: flex;
+    gap: 4%;
+    width: 50%;
+    white-space: nowrap;
+}
+#container{
+    border-top: 2px SOLID rgb(245, 241, 241);
+    display: flex;
+    gap: 2%;
+    width: 100%;
+}
+#container1{
+
+    background: #f6f6f6;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 30px;
+    width: 10%;
+    white-space: nowrap;
+    
+}
+.tablief{
+    display: block;
+    margin-bottom: 8%;
+}
+.paradec{
+    color: #13a52b;
+}
+#container2{
+    background: #f6f6f6;
+    border-radius: 10px;
+    padding: 40px;
+    width: 94%;
+}
+.bgoc{
+    background: #000;
+    border-radius: 50px;
+    color: white;
+    white-space: nowrap;
+    display: inline-block;
+    padding: 6px;
+    width: 95%;
+    cursor: pointer;
+}
+.bgoc1{
+    background: #000;
+    border-radius: 50px;
+    color: white;
+    white-space: nowrap;
+    display: inline-block;
+    padding: 4px 14px;
+    width: 7%;
+}
+.bgoc2{
+    background-color: black; 
+    color: white; 
+    border-radius: 25px;
+    padding: 10px; ;
+    white-space: nowrap;
+    cursor: pointer;
+}
+.voirbrief{
+    border: 2px solid black;
+    border-radius: 15px;
+    padding: 7px;
+    cursor: pointer;
+}
+#dispo{
+    display: flex;
+    gap: 4%;
+}
+#basPage{
+    display: flex;
+    justify-content: space-between;
+    white-space: nowrap;
+}
+#tempsrestants{
+    display: flex;
+    gap: 3%;
+}
+.time-box{
+    display: flex;
+    flex-wrap: wrap;
+}
