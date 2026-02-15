@@ -2,13 +2,13 @@ body{
     background: white;
     border-left: 3px solid red;
     border-right: 3px solid red;
-    width: 96%;;
+    width: 90%;;
     padding: 1%;
 }
 #gaudroi{
     display: flex;
-    width: 99%;
-    gap: 83.5%;
+    width: 90%;
+    gap: 65.5%;
 }
 .bgnoir{
     background: #000;
@@ -43,7 +43,7 @@ body{
     border-top: 2px SOLID rgb(245, 241, 241);
     display: flex;
     gap: 2%;
-    width: 100%;
+    width: 96%;
 }
 #container1{
 
@@ -67,7 +67,7 @@ body{
     background: #f6f6f6;
     border-radius: 10px;
     padding: 40px;
-    width: 94%;
+    width: 90%;
 }
 .bgoc{
     background: #000;
